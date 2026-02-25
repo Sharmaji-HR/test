@@ -168,7 +168,7 @@ import CourseManageDashboard from "./Pages/manage/CourseManageDashboard";
 import { ContentCreate } from "./Pages/manage/ContentCreate";
 import ContentEdit from "./Pages/manage/ContentEdit";
 import EnrollmentsManager from "./Pages/manage/EnrollmentsManager";
-import ProblemDashboard from './components/PracticePage/PastProblems/ProblemDashboard';
+import ProblemDashboard from './Components/PracticePage/PastProblems/ProblemDashboard';
 
 // !job portal
 

@@ -28,47 +28,8 @@ import TechTrainingPage from "./Pages/WhatWedo/ByNeed/TechTraining/TechTrainingP
 import RemoteAndHybridTraning from "./Pages/WhatWedo/ByNeed/RemoteAndHybrid/RemoteAndHybridTraning.jsx";
 //! leadership development
 import LeadershipDevelopementPage from "./Pages/WhatWedo/ByNeed/LeadershipDevelopment/LeadershipDevelopementPage.jsx";
-import Dowload from "./Pages/WhatWedo/ByNeed/CertificatePrepAndBadges/Dowload.jsx";
-import AiUpskilling from "./Pages/WhatWedo/ByNeed/AI Upskilling/AiUpskilling.jsx";
-// aistarterpath in ai upskilling
-import AiStarterPath from "./Pages/WhatWedo/ByNeed/AI Upskilling/AiStarterPath.jsx";
-//! learning path for leader
-import LearningPathForLeader from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForLeader.jsx";
 
-// !learning path for business professional
-import AiToolForAllEmployee from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiToolForAllEmployee.jsx";
-import AiProductivity from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiProductivity.jsx";
-import AiSkillForDesign from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForDesign.jsx";
-import AiSkillForHuman from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForHuman.jsx";
-import AiSkillForFinance from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForFinance.jsx";
-import AiSkillForMarketing from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForMarketing.jsx";
-import AiSkillForProjectManagement from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForProjectManagements.jsx";
-import AiSkillForProductManagements from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForProductManagements.jsx";
-import AiSkillForSale from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForSale.jsx";
-import AiSkillForCustomerService from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiSkillForCustomerService.jsx";
-import AiIntroductionForAllEmployee from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/AiIntroductionForAllEmployee.jsx";
-//!learning path for technical professional
-import AiOnAzure from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiOnAzure.jsx";
-import AjenticAi from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AjenticAi.jsx";
-import RagSystem from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/RagSyatem.jsx";
-import AiFoundationForTechTeam from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiFoundationForTechTeam.jsx";
-import AiOnGoogleCloud from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiOnGoogleCloud.jsx";
-import AiForCyberSecurity from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiForCyberSecurity.jsx";
 
-import AiForPenetrationTester from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiForPenetrationTester.jsx";
-import DataAnalysisWithChatGpt from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/DataAnalysisWithChatGpt.jsx";
-import AiForSOCAnalysis from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiForSOCAnalysis.jsx";
-import StrategicEnablerForAi from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/StrategicEnablerForAi.jsx";
-import AiSkillForSoftware from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiSkillForSoftware.jsx";
-import Llmops from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/Llmops.jsx";
-import GenerativeAiForDataScience from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForBusinessProfessional/GenerativeAiForDataScience.jsx";
-import AjenticArchitecture from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AjenticArchitecture.jsx";
-import LlmPerformance from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/LlmPerformance.jsx";
-import AiForDevOps from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiForDevOps.jsx";
-import AiDrivenForDeveloper from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiDrivenForDeveloper.jsx";
-import AiForQaSoftware from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiForQaSoftware.jsx";
-import BuildLLMPoweredApplication from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/BuildLLMPoweredApplication.jsx";
-import AiEngineering from "./Pages/WhatWedo/ByNeed/AI Upskilling/LearningPathForTechnicalProfessional/AiEngineering.jsx";
 //? By team
 //! leader and executive
 import LeaderAndExecutivePage from "./Pages/WhatWedo/ByTeam/LeaderAndExecutive/LeaderAndExecutivePage.jsx";
@@ -156,22 +117,11 @@ import ForgetPassword from "./Pages/SecondLink/ForgetPassword.jsx";
 import ResetPassword from "./Pages/SecondLink/ResetPassword.jsx";
 import PaymentDetails from './Pages/SecondLink/PaymentDetails.jsx';
 
-//! Code IQ Genius
-import CodeIQGenius from "./Pages/CodeIQGenius/MainPage/CodeIQGenius.jsx";
-import DownloadGuide from './Pages/CodeIQGenius/DownloadGuide.jsx'
-import CodeIqgeniusAccelerate
-  from "./Pages/CodeIQGenius/MainPage/CodeIqgeniusAccelerate.jsx";
 
-import ComparePlan from "./Pages/CodeIQGenius/ComparePlan.jsx";
-import ProffessionService from "./Pages/CodeIQGenius/MainPage/ProffessionalService.jsx";
-//? cohort learning request demo
-import CohortLearningRequestdemo from "./Pages/CodeIQGenius/MainPage/CohortLeaningRequestdemo.jsx";
-// ? cohort learning
-import CohortLearning from "./Pages/CodeIQGenius/MainPage/CohortLearning.jsx";
 
 import { useAuth } from "./hooks/useAuth";
 import { Navigate } from "react-router-dom";
-import Home from "./Pages/Home";
+
 
 import Layout from "./Pages/Layout";
 
@@ -203,7 +153,6 @@ import { HiringPartnerDashboard } from "./Pages/dashboard/HiringPartnerDashboard
 
 // Profile pages
 import UserProfile from "./Pages/user_profile/UserProfile.jsx";
-import ViewUserProfile from "./Pages/user_profile/ViewUserProfile.jsx";
 
 // Manage pages
 import { Approvals } from "./Pages/manage/Approvals";
@@ -249,8 +198,7 @@ import CoursesHome from "./Components/CourseDetails/CourseCatalog/CoursesHome.js
 
 import ProblemView from "./Components/CourseDetails/Problems/ProblemView.jsx";
 import AIHelpView from "./Components/CourseDetails/Problems/AIHelpView.jsx";
-import ProblemNavbar from "./Components/CourseDetails/Problems/ProblemsNavbar.jsx";
-import RightCodePanel from "./Components/CourseDetails/Problems/RightCodePanel.jsx";
+
 import SolutionsView from "./Components/CourseDetails/Problems/SolutionsView.jsx";
 import Submissions from "./Components/CourseDetails/Problems/SubmissionView.jsx";
 
@@ -317,8 +265,7 @@ import { LeaderboardConfig } from "./Pages/Admin/LeaderboardConfig.jsx";
 import WalletDashboard from './Components/wallet/WalletDashboard';
 import CatalogBrowser from './Components/wallet/CatalogBrowser';
 import MyPurchases from './Components/wallet/MyPurchases';
-import WalletItemManager from './Components/wallet/WalletItemManager';
-import WalletConfigManager from './Components/wallet/WalletConfigManager';
+
 import AboutUs from "./Components/AboutUs.jsx";
 
 // My Studying Pages
